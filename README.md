@@ -90,8 +90,12 @@ My final model results were:
 
 ####1. Here are five German traffic signs that I found on the web:
 
-![road.jpg][road.jpg] ![slippery.jpg][slippery.jpg] ![noentry.jpg][noentry.jpg] 
-![gc.jpg][gc.jpg] ![children.jpg][children.jpg] ![80.jpg][80.jpg]
+![road.jpg](road.jpg) 
+![slippery.jpg](slippery.jpg) 
+![noentry.jpg](noentry.jpg) 
+![gc.jpg](gc.jpg)
+![children.jpg](children.jpg) 
+![80.jpg](80.jpg)
 
 The last image might be difficult to classify because all the spped limits signs look almost the same
 
